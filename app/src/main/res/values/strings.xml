@@ -1,0 +1,31 @@
+<resources>
+    <string name="appName">Quiz</string>
+    <string name="signUp">Sign up</string>
+    <string name="signIn">Sign in</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logOutButton">Logout</string>
+    <string name="addsButton">Button</string>
+    <string name="userNameText">Welcome back!</string>
+    <string name="mathCategoryButton">Math</string>
+    <string name="astronomyCategoryButton">Astronomy</string>
+    <string name="programmingCategoryButton">Programming</string>
+    <string name="physicsCategoryButton">Physics</string>
+    <string name="topScoresButton">Top Scores!</string>
+    <string name="questionBox">TextView</string>
+    <string name="answerA">RadioButton</string>
+    <string name="answerB">RadioButton</string>
+    <string name="answerC">RadioButton</string>
+    <string name="answerD">RadioButton</string>
+    <string name="upVote">Up Vote</string>
+    <string name="downVote">Down Vote</string>
+    <string name="amountOfQustions">TextView</string>
+    <string name="timer">TextView</string>
+    <string name="backToLogedInScreen">Button</string>
+    <string name="chooseQuestion">Choose your category!</string>
+    <string name="nextQuestion">NEXT</string>
+    <string name="yourBestScore">Your best score is: </string>
+    <string name="firstPosition">TextView</string>
+    <string name="topScores">Top Scores!</string>
+    <string name="fourthPosition">TextView</string>
+</resources>
